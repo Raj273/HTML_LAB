@@ -1,0 +1,14 @@
+<html>
+<head><title>Paragraph</title></head>
+<body>
+    <p align='center'>1602-17-737-027,Raj Kumar</p>
+<para>Here is the 1st paragraph</para><br/><br/>
+<para>Here is the 2nd paragraph</para><br/><br/>
+<para>Here is the 3rd paragraph</para><br/><br/>
+<para>Vasavi College of Engineering,Department of IT Web Technologies Lab</para><br/><br/>
+<para>Vasavi College of Engineering</para><br/>
+<para>Department of IT</para><br/>
+<para>Web Technologies</para><br/><br/>
+<p align='center'>B.E. 3/4 I.T Section A</p>
+</body>
+</html>

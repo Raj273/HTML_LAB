@@ -1,0 +1,13 @@
+<html>
+    <head><title>lists</title></head>
+    <body>
+        <p align='center'>1602-17-737-027,Raj Kumar</p>
+    <ol style="list-style-type:upper-roman" style="text-decoration-color: black">
+        <li><strong>Semester Subjects</strong><ol style="list-style-type:decimal"><br/><li>Programming in c</li><li>Physics-I</li><li>Chermistry-I</li></ol></li>
+        <li><strong>Semester Subjects</strong><ol style="list-style-type:upper-roman"><br/><li>Object Oriented Programming</li><li>Physics-II</li><li>Chermistry-II</li></ol></li>
+        <li><strong>Semester Subjects</strong><ol style="list-style-type:lower-roman"><br/><li>Data Structures</li><li>Probability and Statistics</li><li>Java Programming</li></ol></li>
+        <li><strong>Semester Subjects</strong><ol style="list-style-type:upper-alpha"><br/><li>Computer Networks</li><li>Operating Systems</li><li>Theory of Automata</li></ol></li>
+        <li><strong>Semester Subjects</strong><ol style="list-style-type:lower-alpha"><br/><li>WMC</li><li>NS</li><li>ISM</li></ol></li>
+        </ol>
+    </body>
+</html>

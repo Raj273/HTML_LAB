@@ -1,0 +1,11 @@
+<html>
+    <head><title>UnorderLists</title></head>
+    <body>
+        <p align='center'>1602-17-737-027,Raj Kumar</p>
+        <ul style="list-style-type: none">
+            <li><strong>List of scripting Languages</strong><br/><ul style="list-style-type: disc"><br/><li>HTML</li><li>JavaScript</li><li>Python</li><li>PHP</li></ul></li><br/>
+            <li><strong>List of Subjects</strong><br/><ul style="list-style-type: circle"><br/><li>Web Technologies</li><li>Computer Construction</li><li>DBMS</li><li>Software Engineering</li></ul></li><br/>
+            <li><strong>List of IT labs</strong><br/><ul style="list-style-type: disc"><br/><li>IT Lab-1</li><li>IT Lab-2</li><li>IT lab-3</li><li>IT lab-4</li></ul></li>
+        </ul>
+    </body>
+</html>
