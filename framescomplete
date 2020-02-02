@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Frames</title>
+</head>
+<frameset rows="10%,*">
+    <frame src="framea.html">
+    <frame src="frames.html">
+    </frameset>
+</html>
